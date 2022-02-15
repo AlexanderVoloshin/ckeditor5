@@ -38,7 +38,7 @@ ClassicEditor.builtinPlugins = [
 	Essentials,
 	UploadAdapter,
 	Autoformat,
-	Bold,
+	// Bold,
 	Italic,
 	BlockQuote,
 	CKFinder,
@@ -67,7 +67,7 @@ ClassicEditor.defaultConfig = {
 		items: [
 			'heading',
 			'|',
-			'bold',
+			// 'bold',
 			'italic',
 			'link',
 			'bulletedList',
